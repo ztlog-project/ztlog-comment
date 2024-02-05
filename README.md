@@ -1,3 +1,3 @@
 # ztlog-comment
 
-ztlof.io comment repo
+ztlog.io comment repo
